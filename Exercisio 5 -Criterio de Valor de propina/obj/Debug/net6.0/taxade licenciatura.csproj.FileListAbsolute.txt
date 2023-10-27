@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.exe
+C:\Users\Inês Costa\source\repos\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.deps.json
+C:\Users\Inês Costa\source\repos\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.dll
+C:\Users\Inês Costa\source\repos\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.pdb
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.dll
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\refint\taxade licenciatura.dll
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.pdb
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\taxade licenciatura\obj\Debug\net6.0\ref\taxade licenciatura.dll
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.exe
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.deps.json
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.dll
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\bin\Debug\net6.0\taxade licenciatura.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.dll
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\refint\taxade licenciatura.dll
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\taxade licenciatura.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Exercisios para o fim de semana\taxade licenciatura\obj\Debug\net6.0\ref\taxade licenciatura.dll

@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.exe
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.deps.json
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.pdb
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\refint\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.pdb
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Aula 5- Instrução de repetição 16_05_2023\obj\Debug\net6.0\ref\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.exe
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.deps.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\bin\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\refint\Aula 5- Instrução de repetição 16_05_2023.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\Aula 5- Instrução de repetição 16_05_2023.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Exercisio de repetição de Caracteres\obj\Debug\net6.0\ref\Aula 5- Instrução de repetição 16_05_2023.dll
