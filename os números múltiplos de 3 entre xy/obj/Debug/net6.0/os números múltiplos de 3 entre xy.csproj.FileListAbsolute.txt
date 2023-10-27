@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.exe
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.deps.json
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.pdb
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\refint\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.pdb
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\os números múltiplos de 3 entre xy\obj\Debug\net6.0\ref\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.exe
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.deps.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\bin\Debug\net6.0\os números múltiplos de 3 entre xy.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\refint\os números múltiplos de 3 entre xy.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\os números múltiplos de 3 entre xy.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\os números múltiplos de 3 entre xy\obj\Debug\net6.0\ref\os números múltiplos de 3 entre xy.dll

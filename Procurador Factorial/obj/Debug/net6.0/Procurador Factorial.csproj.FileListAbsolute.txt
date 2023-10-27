@@ -1,0 +1,45 @@
+C:\Users\Inês Costa\source\repos\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.exe
+C:\Users\Inês Costa\source\repos\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.deps.json
+C:\Users\Inês Costa\source\repos\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\source\repos\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\refint\Procurador Factorial.dll
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Procurador Factorial\obj\Debug\net6.0\ref\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.exe
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.deps.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\refint\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Exercisios para a proxima aula\Procurador Factorial\obj\Debug\net6.0\ref\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\refint\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\bin\Debug\net6.0\Procurador Factorial.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\Procurador Factorial.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios 2\Procurador Factorial\obj\Debug\net6.0\ref\Procurador Factorial.dll
