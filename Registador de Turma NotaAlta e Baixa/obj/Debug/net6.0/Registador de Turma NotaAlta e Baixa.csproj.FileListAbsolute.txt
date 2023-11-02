@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.exe
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.deps.json
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.pdb
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\refint\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.pdb
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\ref\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\bin\Debug\net6.0\Registador de Turma NotaAlta e Baixa.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\refint\Registador de Turma NotaAlta e Baixa.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\Registador de Turma NotaAlta e Baixa.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Registador de Turma NotaAlta e Baixa\obj\Debug\net6.0\ref\Registador de Turma NotaAlta e Baixa.dll

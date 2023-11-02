@@ -1,0 +1,15 @@
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\bin\Debug\net6.0\SobreTaxa de Salário.exe
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\bin\Debug\net6.0\SobreTaxa de Salário.deps.json
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\bin\Debug\net6.0\SobreTaxa de Salário.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\bin\Debug\net6.0\SobreTaxa de Salário.dll
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\bin\Debug\net6.0\SobreTaxa de Salário.pdb
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.dll
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\refint\SobreTaxa de Salário.dll
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.pdb
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\SobreTaxa de Salário.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\SobreTaxa de Salário\obj\Debug\net6.0\ref\SobreTaxa de Salário.dll
