@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercisio 3 medias para matricular/1.0.0": {
+        "runtime": {
+          "Exercisio 3 medias para matricular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercisio 3 medias para matricular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

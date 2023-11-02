@@ -1,0 +1,15 @@
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\bin\Debug\net6.0\Exercisio 3 medias para matricular.exe
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\bin\Debug\net6.0\Exercisio 3 medias para matricular.deps.json
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\bin\Debug\net6.0\Exercisio 3 medias para matricular.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\bin\Debug\net6.0\Exercisio 3 medias para matricular.dll
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\bin\Debug\net6.0\Exercisio 3 medias para matricular.pdb
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.dll
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\refint\Exercisio 3 medias para matricular.dll
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.pdb
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\Exercisio 3 medias para matricular.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Exercisio 3 medias para matricular\obj\Debug\net6.0\ref\Exercisio 3 medias para matricular.dll
