@@ -1,6 +1,5 @@
 # Algoritmo
 Fundamentals for C# - Upskill Module
-Certainly! Here's a one-page introduction documentation for your C# Algorithm module on GitHub:
 
 # C# Algorithm Module Documentation
 
