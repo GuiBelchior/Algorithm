@@ -1,0 +1,15 @@
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\bin\Debug\net6.0\FeM e idade para Centro Comercial.exe
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\bin\Debug\net6.0\FeM e idade para Centro Comercial.deps.json
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\bin\Debug\net6.0\FeM e idade para Centro Comercial.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\bin\Debug\net6.0\FeM e idade para Centro Comercial.dll
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\bin\Debug\net6.0\FeM e idade para Centro Comercial.pdb
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.dll
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\refint\FeM e idade para Centro Comercial.dll
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.pdb
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\FeM e idade para Centro Comercial.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\FeM e idade para Centro Comercial\obj\Debug\net6.0\ref\FeM e idade para Centro Comercial.dll

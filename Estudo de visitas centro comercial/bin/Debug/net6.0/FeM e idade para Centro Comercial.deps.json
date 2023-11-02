@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FeM e idade para Centro Comercial/1.0.0": {
+        "runtime": {
+          "FeM e idade para Centro Comercial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeM e idade para Centro Comercial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

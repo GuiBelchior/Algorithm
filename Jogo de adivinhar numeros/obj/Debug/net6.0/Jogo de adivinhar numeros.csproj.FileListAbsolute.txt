@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.exe
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.deps.json
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.pdb
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\refint\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.pdb
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Jogo de adivinhar numeros\obj\Debug\net6.0\ref\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\bin\Debug\net6.0\Jogo de adivinhar numeros.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\refint\Jogo de adivinhar numeros.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\Jogo de adivinhar numeros.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Exercisios de PP Intruções de repetição\Jogo de adivinhar numeros\obj\Debug\net6.0\ref\Jogo de adivinhar numeros.dll
