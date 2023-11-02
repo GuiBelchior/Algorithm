@@ -1,0 +1,30 @@
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.exe
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.deps.json
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.pdb
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\refint\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.pdb
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Instrução de decisão - Desconto Veterinário\obj\Debug\net6.0\ref\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\bin\Debug\net6.0\Instrução de decisão - Desconto Veterinário.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\refint\Instrução de decisão - Desconto Veterinário.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\Instrução de decisão - Desconto Veterinário.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\1- Exercisio Desconto Veterinário\obj\Debug\net6.0\ref\Instrução de decisão - Desconto Veterinário.dll
