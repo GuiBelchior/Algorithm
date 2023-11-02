@@ -1,0 +1,45 @@
+C:\Users\Inês Costa\source\repos\Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.exe
+C:\Users\Inês Costa\source\repos\Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.deps.json
+C:\Users\Inês Costa\source\repos\Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.runtimeconfig.json
+C:\Users\Inês Costa\source\repos\Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\source\repos\Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfo.cs
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\refint\Rating de Hospital.dll
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.genruntimeconfig.cache
+C:\Users\Inês Costa\source\repos\Rating de Hospital\obj\Debug\net6.0\ref\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\refint\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\2- Rating de Hospital\obj\Debug\net6.0\ref\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.exe
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.deps.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.runtimeconfig.json
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\bin\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.AssemblyReference.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfoInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.AssemblyInfo.cs
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\refint\Rating de Hospital.dll
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.pdb
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\Rating de Hospital.genruntimeconfig.cache
+C:\Users\Inês Costa\Desktop\Algoritmo\Trabalho Individual\3- Exercisio -Rating de Hospital\obj\Debug\net6.0\ref\Rating de Hospital.dll
